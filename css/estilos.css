@@ -1,0 +1,35 @@
+#pre-final{
+    background-color: #FAE2E2;
+}
+
+.cardEdit{
+    margin: 1vh;
+    width: 50vh;
+}
+.ajusteimagen{
+    width: auto;
+    height: 40vh;
+}
+.colorRedes{
+    background-color: #F25252;
+}
+#redes{
+    height: 6vh;
+}
+
+#pre-final{
+    height: 1vh;
+}
+#final{
+    height: 12vh;
+}
+.paddArriba{
+    padding-top: 1vh;
+}
+#p2{
+    text-align: center;
+}
+#a2{
+    background-color: #FAE2E2;
+    text-align: center;
+}
